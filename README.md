@@ -6,14 +6,14 @@ This project predicts the survival of Titanic passengers using advanced feature 
 titanic-survival-prediction/
 │
 ├── data/
-│   ├── train.csv                    # Training dataset
+│   ├── train.csv                    
 │   └── test.csv 
 ├── notebooks/
-│   └── titanic_xgboost.ipynb        # Main Colab notebook                    # Test dataset
-├── requirements.txt                 # Python dependencies
-├── .gitignore                      # Git ignore rules
-├── LICENSE                        # License file
-└── README.md                       # Project overview and instructions
+│   └── titanic_xgboost.ipynb
+├── .gitignore              
+├── LICENSE             
+├── README.md                 
+└── requirements.txt         
 
 ## Getting Started
 
