@@ -3,7 +3,6 @@
 This project predicts the survival of Titanic passengers using advanced feature engineering and an XGBoost classifier. The goal is to build a model with strong predictive accuracy and demonstrate effective data science practices.
 
 ## Project Structure
-
 titanic-survival-prediction/
 │
 ├── notebooks/
